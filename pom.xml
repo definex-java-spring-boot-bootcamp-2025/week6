@@ -16,6 +16,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>fundamentals-of-declarative-programming</module>
         <module>fundamentals-of-unit-testing</module>
         <module>fundamentals-of-integration-testing</module>
     </modules>
